@@ -1,0 +1,95 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Docker
+docker-compose.override.yml
+.env
+
+# Sensitive Data
+*.key
+*.pem
+*.crt
+secrets/
+credentials/
+api_keys.txt
+
+# VirtualBox
+*.vdi
+*.vmdk
+*.vbox
+*.vbox-prev
+
+# Temporary Files
+*.tmp
+*.temp
+.cache/
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Configuration with Secrets
+config.local.yml
+secrets.yml
+.env.local
+
+# OpenSearch / Elasticsearch
+data/
+opensearch-data/
+
+# Wazuh
+wazuh-docker/wazuh-*/data/
+
+# Suricata
+suricata.log
+fast.log
+eve.json
+
+# Build Artifacts
+dist/
+build/
+*.egg-info/
+
+# Documentation Build
+site/
+_build/
+
+# macOS
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Windows
+desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.directory
+.Trash-*
