@@ -1039,9 +1039,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Project Maintainer**: [Your Name]  
-**LinkedIn**: [Your LinkedIn Profile]  
-**Email**: [your.email@example.com]  
+**Project Maintainer**: Louis BRANCHUT  
+**LinkedIn**: https://www.linkedin.com/in/louis-branchut-898553212
+**Email**: louis.branchut@gmail.com  
 
 ---
 
